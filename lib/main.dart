@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Food App',
+      title: 'Food  App',
       theme: ThemeData(
         primaryColor: primary,
         textTheme: GoogleFonts.latoTextTheme(
